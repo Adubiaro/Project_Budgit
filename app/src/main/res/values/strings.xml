@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Budgit</string>
+    <string name="introduction">     Hi, this is budgit \n Your friendly budget calculator"</string>
+</resources>
